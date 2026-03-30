@@ -3,7 +3,7 @@ Open Source Audit project for OSS NGMC course including Linux shell scripts and 
 
 ## Student Information
 Name: Pragya Raj  
-Registration Number: [Your Roll Number]  
+Registration Number: 24MIP10105  
 Course: Open Source Software (OSS NGMC)  
 Project: Open Source Audit
 
